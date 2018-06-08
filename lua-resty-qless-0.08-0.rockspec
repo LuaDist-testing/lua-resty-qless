@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-qless"
-version = "0.07-0"
+version = "0.08-0"
 -- LuaDist source
 source = {
-  tag = "0.07-0",
+  tag = "0.08-0",
   url = "git://github.com/LuaDist-testing/lua-resty-qless.git"
 }
 -- Original source
 -- source  = {
 --   url = "git://github.com/pintsized/lua-resty-qless",
---   tag = "v0.07"
+--   tag = "v0.08"
 -- }
 description = {
   summary    = "Lua binding to Qless (Queue / Pipeline management) for OpenResty",
