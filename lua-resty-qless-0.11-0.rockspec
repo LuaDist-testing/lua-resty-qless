@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-resty-qless"
-version = "0.10-0"
+version = "0.11-0"
 -- LuaDist source
 source = {
-  tag = "0.10-0",
+  tag = "0.11-0",
   url = "git://github.com/LuaDist-testing/lua-resty-qless.git"
 }
 -- Original source
 -- source  = {
 --   url = "git://github.com/pintsized/lua-resty-qless",
---   tag = "v0.10"
+--   tag = "v0.11"
 -- }
 description = {
   summary    = "Lua binding to Qless (Queue / Pipeline management) for OpenResty",
@@ -34,7 +34,7 @@ description = {
 
 dependencies = {
   "lua >= 5.1",
-  "lua-resty-redis-connector >= 0.04",
+  "lua-resty-redis-connector >= 0.05",
 }
 
 local modules = {
